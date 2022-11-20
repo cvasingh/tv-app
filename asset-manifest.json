@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tv-app/static/css/main.9d5e7956.css",
+    "main.js": "/tv-app/static/js/main.7b5ae6f6.js",
+    "static/media/banner.webp": "/tv-app/static/media/banner.7ed455d816e609b84815.webp",
+    "static/media/greenBG.svg": "/tv-app/static/media/greenBG.a0a4970632bca4f6451d.svg",
+    "static/media/logo.png": "/tv-app/static/media/logo.a06009190621ba2930b2.png",
+    "index.html": "/tv-app/index.html",
+    "main.9d5e7956.css.map": "/tv-app/static/css/main.9d5e7956.css.map",
+    "main.7b5ae6f6.js.map": "/tv-app/static/js/main.7b5ae6f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d5e7956.css",
+    "static/js/main.7b5ae6f6.js"
+  ]
+}
